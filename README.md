@@ -1,9 +1,11 @@
 # NYU_DS_classes
 
-### Overall data is divided into two tables; (1) class(Meeting) (2) User info
+### The script will generate two tables; (1) class(Meeting) info (2) User info
 
 1. Class information
-  - This table has information about the class
+  - This table contains information about the class.
+  - Cell value will be NA if there is no information.
 
 2. User information
-  - This table has information about users.
+  - This table contains information about users.
+  - Cell value will be NA if there is no information.
