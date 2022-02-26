@@ -1,4 +1,4 @@
-# NYU_DS_classes
+# NYU Data Services classes script
 
 ### Purpose: Create a script to automate data extraction process from unorganized data files.
 ### Object: The script will generate two tables; (1) class(Meeting) info (2) User info
